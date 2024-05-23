@@ -1,4 +1,4 @@
-# Getting Started with Basic E-Commerce-App
+# Getting Started with E-Commerce_store
 
 first Clone / Download The Project
 cd into the project directory then you can run:
